@@ -1,5 +1,7 @@
 # Simple weather service for Slack (with slash command)
 
+[![Run with Postverta badge](http://postverta.io/badge.svg)](http://postverta.io/direct/postverta/slack-slashcommand)
+
 This app demonstrates how to use Slack API's [slash command feature](https://api.slack.com/slash-commands)
 feature to implement a simple weather service. A user can use `/weather [zipcode]` to
 access the app and get the current weather condition of a location.
